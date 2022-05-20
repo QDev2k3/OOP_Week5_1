@@ -1,4 +1,3 @@
-Bài tập thực hành tuần 5 (lớp .1)
 Định nghĩa lớp Fraction để biểu diễn khái niệm phân số, bao gồm tử số và mẫu số. Thiết lập các phép toán:
 
     • Các thao tác nhập xuất và gán giá trị: >>, <<, =
