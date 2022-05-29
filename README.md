@@ -1,13 +1,3 @@
-Định nghĩa lớp Fraction để biểu diễn khái niệm phân số, bao gồm tử số và mẫu số. Thiết lập các phép toán:
-
-    • Các thao tác nhập xuất và gán giá trị: >>, <<, =
-    
-    • Các phép toán trên trường số: + , −, ∗, /, +=, -=, *=, /=
-    
-    • Các phép toán so sánh: ==, ! =, >, <, >=, <=
-    
-    • Các phép toán đặc biệt: ++, −− (thêm, bớt cả tử và mẫu với 1)
-    
-Lưu ý : cần thể hiện rõ sự khác biệt về mặt thực thi giữa ab ++ và ++ab
-
-Ngoài ra, định nghĩa thêm phép toán ∼ dưới dạng phép nghịch đảo phân số
+Thực hiện tương tự tương tự bài tập 1 với lớp Matrix (ma trận) cho các phép toán <<, >>, =, +, −,
+∗, +=, -=, *=, ==, ! =, ++, −−; trong đó: phép toán ++ được định nghĩa là tăng tất cả phần tử trong
+ma trận lên 1 đơn vị (tương tự đối với phép toán −−).
